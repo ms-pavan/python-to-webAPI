@@ -11,13 +11,17 @@ Install python and follow the below steps :
 
 The above are the python installed paths python34-version
 
-neccessary paths: c:\python34;c:\python34\script
+neccessary paths: c:\python34;c:\python34\scripts
 
 2.Install  SimpleJson Package
 
 3.Place Request Packages in Lib/SitePackages folder(check Requests folder)
 
-4.Deploy WebAPI(.net) Rest service with CRUD operations in IIS or run it locally(use the path in python code to connect to service)
+4.Deploy WebAPI(.net) Rest service with CRUD operations in IIS or run it locally(use the ActionMethod name as path in python code to connect to service)
+
+5.Run the database scripts in SQLServer(WebAPICRUD.zip-->ReadMe.txt) 
+
+Finally run the RestServiceUsingWebApi.py python  file to perform CRUD operations from python using WebApi
 
 
 
