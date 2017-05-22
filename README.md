@@ -9,7 +9,7 @@ Steps to follow to connect to WebAPI
 Install python and follow the below steps :
 1.Add Path in environment variables : example-add c:\python34;c:\python34\script
 
-The above are the python installed paths pythonn34-version
+The above are the python installed paths python34-version
 
 neccessary paths: c:\python34;c:\python34\script
 
